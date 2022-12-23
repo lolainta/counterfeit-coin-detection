@@ -1,4 +1,4 @@
-# Counterfeit simulation
+# Counterfeit Coin Detection
 
 ## Features
 - Multithread
@@ -14,7 +14,7 @@ pip3 install -r requirements.txt
 ```
 
 Run and wait for a while, the result will be generate in `result.png`.
-```
+```bash
 python3 main.py
 ```
 
