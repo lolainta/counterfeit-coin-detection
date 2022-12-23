@@ -1,0 +1,4 @@
+NUM_COINS=100
+EXP_NUM=1000
+COUNTERFEIT=range(1,6)
+N=range(5,41)
